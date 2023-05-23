@@ -1,0 +1,26 @@
+
+
+.titulo{
+    background-image: linear-gradient(to right,  rgb(81, 81, 162), rgb(221, 17, 221));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+}
+
+
+.formulario{
+    color: blue;
+    font-weight: 600;
+    
+}
+.boton{
+    width: 200px;
+    height: 40px;
+    border: none;
+    background: linear-gradient(to left, rgb(81, 81, 162), rgb(221, 17, 221));
+    color: white;
+    font-weight: 600;
+}
+.tarjeta{
+    background: linear-gradient(to left, rgb(97, 97, 230), rgb(234, 141, 234));
+}
